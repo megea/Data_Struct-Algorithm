@@ -1,0 +1,9 @@
+learning/bin/
+learning/obj/
+*.depend
+*.layout
+*.cbp
+*.exe
+*.o
+*.out
+*.swp
