@@ -1,0 +1,8 @@
+*.o
+*.out
+learning/bin/
+learning/obj/
+*.layout
+*.cbp
+*.depend
+
