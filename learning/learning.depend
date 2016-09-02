@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472179077 source:g:\virtual machines\share\data_structures_and_algorithm_analysis_in_c\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472203193 source:g:\virtual machines\share\data_struct-algorithm\learning\pointer_test.c
+	<stdio.h>
+	<stdlib.h>
+
